@@ -1,7 +1,28 @@
 # hello-world
 
+* **Project Name:** _Hello World Programme_
+---
+* **Descripton:** _This is my first repository I have ever created and written a simple Hello World programe in Python and JavaScript. It is just an start of my software developer journey._
 
-A file of JavaScript Which prints greeting message at console.
+---
+* **Table of Contents:**
+  * _A file of JavaScript Which prints greeting message at console._
+  * _A file of Python Which prints greeting message at console._
+---
+* **Intallation:**
+
+---
+* **Usage:**
+
+---
+* **Contributors:**
+
+---
+* **Credits:**
+
+---
+* **License:**
+
 
 Link to What is GitHub? and How to use?: https://guides.github.com/activities/hello-world/
 
