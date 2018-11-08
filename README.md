@@ -1,6 +1,6 @@
-# hello-world
+# Hello-world !
 
-* **Project Name:** _Hello World Programme_
+* **Project Name:** _Hello World Programme._
 ---
 * **Descripton:** _This is my first repository I have ever created and written a simple Hello World programe in Python and JavaScript. It is just an start of my software developer journey._
 
@@ -9,8 +9,13 @@
   * _A file of JavaScript Which prints greeting message at console._
   * _A file of Python Which prints greeting message at console._
 ---
-* **Intallation:**
-
+* **Installation:**
+  * For Windows:
+    * _JavaScript: To run JavaScript file through CMD (or Powershell), we need JavaScript runtime environment. Get Node Js from here: https://nodejs.org/en/_
+    * _Python: To run Python file through CMD (or Powershell), We must have Python installed in our Machine. Get Python from here: https://www.python.org/downloads/_
+  * For Linux:
+    * _JavaScript: Get Node Js from here: https://nodejs.org/en/_
+    * _Python: Linux already has pre-installed Python for you. To check Python version, fire terminal using **ALT + CTRL + T** and type **python --version** in terminal and hit enter button._
 ---
 * **Usage:**
 
