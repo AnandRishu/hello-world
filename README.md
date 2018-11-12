@@ -1,6 +1,6 @@
 # Hello-world !
 
-* **Project Name:** _Hello World Programme._
+* **Project Name:** _Hello World._
 ---
 * **Descripton:** _This is my first repository I have ever created and written a simple Hello World programe in Python and JavaScript. It is just an start of my software developer journey._
 
