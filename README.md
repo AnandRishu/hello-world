@@ -26,7 +26,7 @@
 * **Credits:**
 
 ---
-* **License:**
+* **License:** None (public domain).
 
 
 Link to What is GitHub? and How to use?: https://guides.github.com/activities/hello-world/
